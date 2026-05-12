@@ -2,7 +2,7 @@
 
 A tiny Node/Express server for browsing a working directory in the browser. Renders Markdown files on the fly, surfaces a "Recently Updated" list, and shows a QR code so you can pull anything up on your phone over the local network.
 
-Originally written as a scratchpad viewer for `~/preview/` — drop drafts, mockups, exports, or one-off HTML/Markdown files into a folder and read them in a browser instead of a terminal.
+Written by **[DevDarren](https://devdarren.com)** as a scratchpad viewer for `~/preview/` — drop drafts, mockups, exports, or one-off HTML/Markdown files into a folder and read them in a browser instead of a terminal.
 
 ## Features
 
@@ -119,4 +119,4 @@ Issue the cert with `certbot --nginx -d preview.example.com`, reload nginx, and 
 
 ## License
 
-MIT.
+MIT © [DevDarren](https://devdarren.com)

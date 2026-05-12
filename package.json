@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node server.js"
   },
+  "author": "DevDarren (https://devdarren.com)",
   "license": "MIT",
+  "homepage": "https://github.com/devdarren7/preview-server",
   "dependencies": {
     "express": "^4.19.2"
   }
