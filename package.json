@@ -1,0 +1,13 @@
+{
+  "name": "preview-server",
+  "version": "1.0.0",
+  "description": "Minimal local preview server: directory listing, markdown rendering, and recent-files index for a working directory.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
